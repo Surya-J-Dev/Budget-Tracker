@@ -22,9 +22,3 @@ A responsive web application to help users manage their daily expenses and incom
 1. Clone or download the repository
 2. Open `index.html` in any modern browser
 
-## 📸 Screenshots
-(Add images showing the UI)
-
-## 📎 License
-This project is licensed under the MIT License.
-
